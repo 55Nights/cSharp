@@ -1,0 +1,36 @@
+1)	Write a program that when run, produces a menu showing beer brands and their prices and then prompts the user enter his/her choice (1,2,3 or 4). The user is then asked how many bottles he/she wants. He is then given the total cost (depending on the cost of the beer chosen) as the output. See sample dialog below. If he/she enters an invalid choice e.g. 8, he/she should get an error message.
+Sample dialog
+      
+* * * * Jamal and Daughters Pub * * * *
+Beer Brand		Price
+1) Tusker			100/=
+2) Pilsner			120/=
+3) Smirnoff Ice		140/=
+4) White Cap		 90/=
+Enter your choice: 2
+How many bottles of pilsner do you want? 11
+11 bottles of pilsner will cost you Kshs. 1320
+
+
+a)	Use the if…else statement
+b)	Use the switch statement.
+2)	Write a program that prompts the user for two numbers. The program then prompts the user for the operator (+, - , * , / or %). The user is the given the answer depending on the operator entered. If he enters an invalid operator, he/she should get an error message. See sample dialog below.
+Sample Dialog
+
+
+
+a)	Use the if…else statement
+b)	Use the switch statement
+3)	Write a program using the tax information below: -
+Gross Pay                  	      Tax Rate
+Over 40,000			30%
+>= 30,000 but below 40,000	25%
+>=20,000 but below 30,000	15%
+>=10,000 but below 20,000	10%
+Below 10,000			no tax.
+Write a program that accepts the gross pay and computes both the tax amount and the net pay. (Assume the net pay is gross pay – tax amount)
+4)	Write a program that prompts the user for two numbers and then computes them using the following rules. If the first number is greater than the second one, the second number is subtracted from the first one. If the second number is greater than the first one, the first number is divided by the second one. Otherwise the two numbers are added.
+5)	Write a program to read a value from the keyboard and output the phrase NEGATIVE if the number is negative, POSITIVE if the number is positive or ZERO otherwise.
+6)	Write a program that accepts two numbers and divides the bigger number by the smaller number and displays the results. The program should display an error message (and not perform the calculation) if the smaller number is zero.
+7)	Write a program that computes the area & perimeter of either a rectangle, a circle or a right-angled triangle. The program should display a menu that enables the user to select the type of figure whose area & perimeter he/she wants to compute. Depending on the users choice, the program should prompt for the dimensions and perform the computations. The output should be: - The type of figure, the dimensions, the area and the perimeter. (NB:The calculation should be for only one figure at any one time.)
+8)	Write a program that can be used by a policeman to determine if a vehicle has exceeded the speed limit and to levy a fine. The policeman should enter the vehicles speed and the speed limit. If the speed limit is exceeded by less than 30kph a fine of Kshs. 2500 should be charged. Otherwise a fine of Kshs 4000 is charged. Your program should then output (in a suitable format) the vehicle speed, the speed limit, the excess speed and the fine levied.
