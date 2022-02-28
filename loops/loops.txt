@@ -1,0 +1,38 @@
+1)	A program is required that computes the square and cube of all numbers between 2 and 10 and display them using a loop. The output should take the following format.
+      Number      Square          Cube
+           2                4                   8
+           3                9                 27
+          …
+         10            100              1000
+      Write the program using: -
+a)	do…while loop            
+b)	for… loop
+NB: The program has no input.
+2)	Write a program that accepts a list of integers and computes their sum. The program should allow the user to enter any number of integers but an input of zero should terminate the list.
+ For example if the user enters 2 5 6 12 8 2 0 the sum should be 35. If he/she enters 2 4 5 0 the sum should be 11 and if he enters 5 4 6 0 12 43 2
+  the sum should 15 i.e. only numbers before zero are summed. The rest are ignored and the program terminated.
+3)	Write a program that computes the sum of the squares of the first 15 positive integers and display the results using
+a)	while… loop.               
+b)	for… loop.
+4)	Write a program that accepts a number and prints out it’s reciprocal (1/n). 
+The program should prevent the user from entering zero by asking the user to enter the value again. After being given the answer,
+ the user should be asked if wants to continue by entering ‘c’ to continue and ‘x’ to exit.
+5)	Write a program that displays all numbers divisible by 8 between 1 and 200 using
+a)	do…while loop               
+b)	for… loop
+6)	Write a complete program that will read the three values for Deposit, interest rate and number of years an amount of money is being saved. Your program should the compute the cumulative compound interest over the given period of years. NB: Don’t use the formula for calculating compound interest. Use loops instead. For example, if the deposit is 10000 and the interest is 10 percent and the money is being saved for ten years, the output should take the format shown below (including number of decimal places)
+Year                      Interest                     Balance
+   1                         1000.00                    11000.00
+   2                         1100.00	         12100.00
+   3                         1210.00                    13310.00
+  ….
+  10                        2357.94                    25937.42
+The compounded interest for 10 years is Kshs. 15937.42
+The balance in the account after 10 years at 10.00 percent interest is Kshs. 25937.42
+7)	Write a program to produce the following multiplication table using loops.
+*    1    2    3    4    5    6
+1    1    2    3    4    5    6
+2    2    4    6    8   10 12
+3    3    6    9   12  15 18
+4    4    8   12  16  20 24
+5    5  10   15  20  25 30
